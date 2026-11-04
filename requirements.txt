@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-groq
+langgraph>=1.2.0
+langgraph-cli[inmem]>=0.4.4
+python-dotenv
+fastapi
+uvicorn
+colorama
